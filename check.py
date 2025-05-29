@@ -5,4 +5,3 @@ root.title("My Tkinter App")
 tk.Label(root, text="Hello from VS Code!").pack()
 root.mainloop()
 
-jjbhjbkhhi 
